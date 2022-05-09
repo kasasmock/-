@@ -1,0 +1,19 @@
+{
+  "dataServiceGeneratorVersion": "0.12.6",
+  "appInfo": {
+    "name": "لباس کار",
+    "description": "تولید کننده انواع لباسکار.انواع تیشرت ، کاپشن و شلوار ، دوبنده و سرهمی، کلاه و ساک دستی تبلیغاتی",
+    "version": "76bou5bo",
+    "id": "cl2yabdnu82134301s66xzxf893",
+    "url": "https://app.amplication.com/cl2yabdnu82134301s66xzxf893",
+    "settings": {
+      "dbHost": "localhost",
+      "dbName": "",
+      "dbPassword": "admin",
+      "dbPort": 5432,
+      "dbUser": "admin",
+      "appId": "cl2yabdnu82134301s66xzxf893",
+      "authProvider": "Jwt"
+    }
+  }
+}
